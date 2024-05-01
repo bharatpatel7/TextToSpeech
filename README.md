@@ -33,6 +33,13 @@ git clone https://github.com/your-username/text-to-speech-application.git
 
 4. **Enjoy Speech Output**: Input your desired text, select voice, speed rate, and volume level, and click the "Speak" button to hear the speech output.
 
+## Authors
+
+- Bharat Garsondiya
+  - Email: bharat.garsondiya2609@gmail.com
+- Tannu Singal
+  - Email: tannusingal33@gmail.com
+
 ## Requirements
 
 To run the Text-to-Speech Application, ensure that you have the following prerequisites installed on your system:
@@ -82,6 +89,13 @@ curl http://localhost:8080/api/text-to-speech/volume-levels
 # Perform text-to-speech conversion
 curl -X POST -d "message=Hello, world!" -d "voiceType=kevin16" -d "rate=200" -d "volume=5" http://localhost:8080/api/text-to-speech/speak
 ```
+
+## Authors
+
+- Bharat Garsondiya
+  - Email: bharat.garsondiya2609@gmail.com
+- Tannu Singal
+  - Email: tannusingal33@gmail.com
 
 ## Getting Started
 

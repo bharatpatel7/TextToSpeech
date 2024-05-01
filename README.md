@@ -63,6 +63,8 @@ Welcome to the Text-to-Speech API! This RESTful API allows developers to integra
 
 The Text-to-Speech API simplifies the process of incorporating speech synthesis capabilities into various software projects. With its intuitive HTTP endpoints, developers can seamlessly integrate text-to-speech functionality into their applications, opening up a world of possibilities.
 
+See carefully all the files. API File is already provided in this repo. Have a look. Happy Coding!
+
 ## Endpoints
 
 Explore the following endpoints to leverage the power of the Text-to-Speech API:

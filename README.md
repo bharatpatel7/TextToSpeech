@@ -33,12 +33,10 @@ git clone https://github.com/your-username/text-to-speech-application.git
 
 4. **Enjoy Speech Output**: Input your desired text, select voice, speed rate, and volume level, and click the "Speak" button to hear the speech output.
 
-## Authors
+## Author
 
 - Bharat Garsondiya
   - Email: bharat.garsondiya2609@gmail.com
-- Tannu Singal
-  - Email: tannusingal33@gmail.com
 
 ## Requirements
 
